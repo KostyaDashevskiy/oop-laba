@@ -1,5 +1,4 @@
 ﻿using OOP_laba_1;
-Console.WriteLine("Worlds");
 
 Rational r1 = new Rational(-5, 10);
 Rational r2 = new Rational(1, -2);

@@ -8,16 +8,16 @@ namespace OOP_laba_1_2
 {
     internal class DecorPre : IDateTimeFormatter
     {
-        private IDateTimeFormatter pole;
-        public DecorPre(IDateTimeFormatter mama)
+        private IDateTimeFormatter _date;
+        public DecorPre(IDateTimeFormatter date)
         {
-            pole = mama;
+            _date = date;
         }
         public string FormatDateTime()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Tse");
-            sb.Append(pole.FormatDateTime());
+            sb.Append("Das");
+            sb.Append(_date.FormatDateTime());
             return sb.ToString();
         }
     }

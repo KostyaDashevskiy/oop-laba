@@ -7,20 +7,20 @@ using System.Threading.Tasks;
 
 namespace OOP_laba_1_3
 {
-    internal class Tree
+    public class Tree
     {
-        public int Variable { get; set;}
+        public int data { get; set;}
         public List<Tree> Trees;
 
         public Tree(int a)
         {
-            Variable = a;
+            data = a;
             Trees = new List<Tree>();   
         }
 
         public void Print()
         {
-            Console.WriteLine(Variable);
+            Console.WriteLine(data);
             foreach (Tree t in Trees)
             {
                 t.Print();
