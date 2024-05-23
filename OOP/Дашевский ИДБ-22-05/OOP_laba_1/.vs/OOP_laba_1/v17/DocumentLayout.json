@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105EF76F-E74C-4E83-85C7-9E71BA5CEF17}|..\\OOP_laba_1_3\\OOP_laba_1_3.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105EF76F-E74C-4E83-85C7-9E71BA5CEF17}|..\\OOP_laba_1_3\\OOP_laba_1_3.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB05153-7400-408A-92E3-300AB570DD4A}|..\\OOP_laba_1Tests\\OOP_laba_1Tests.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1tests\\rationaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_2\\idatetimeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_2\\europeandatetimeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_2\\decorpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_2\\decorpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1594B7B5-00C6-409C-9A22-BEAB8B8D286A}|..\\OOP_laba_1_2\\OOP_laba_1_2.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1_2\\americandatetimeformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|solutionrelative:rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|c:\\users\\\u043F\u043A\\documents\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\oop\\\u0434\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0438\u0434\u0431-22-05\\oop_laba_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2383EB-84CB-42C7-B006-499A2AF1E4C0}|OOP_laba_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RationalTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1Tests\\RationalTests.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1Tests\\RationalTests.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1Tests\\RationalTests.cs",
+              "RelativeToolTip": "..\\OOP_laba_1Tests\\RationalTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:49.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_3\\Tree.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Tree.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_3\\Tree.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_3\\Tree.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_3\\Program.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:27.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\Program.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:24.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDateTimeFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\IDateTimeFormatter.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\IDateTimeFormatter.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\IDateTimeFormatter.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_2\\IDateTimeFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EuropeanDateTimeFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\EuropeanDateTimeFormatter.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\EuropeanDateTimeFormatter.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\EuropeanDateTimeFormatter.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_2\\EuropeanDateTimeFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:16.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecorPre.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\DecorPre.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\DecorPre.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\DecorPre.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_2\\DecorPre.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:08.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecorPost.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\DecorPost.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\DecorPost.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\DecorPost.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_2\\DecorPost.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:05.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AmericanDateTimeFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_2\\AmericanDateTimeFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:42:01.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rational.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1\\Rational.cs",
+              "RelativeDocumentMoniker": "Rational.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1\\Rational.cs",
+              "RelativeToolTip": "Rational.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:41:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043A\\Documents\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u043F\\laba git\\OOP\\\u0414\u0430\u0448\u0435\u0432\u0441\u043A\u0438\u0439 \u0418\u0414\u0411-22-05\\OOP_laba_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:41:25.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
